@@ -1,13 +1,13 @@
 # This repository is created under  FUTURE READY TALENT INTERNSHIP 
 <br>
 <h1>
-To run this website  click on this link below <br>
+To run this website  click on this link below: <br>
 https://zealous-flower-00b0bab10.1.azurestaticapps.net
 </h1>
 
 #  Fashion-Up 
 
-One 
+Fashion-Up is one of the leading and trusted clothing webstore. It is one of the largest webstore for clothing, where people can buy the different trending clothes and can also customize them according to their needs. Famous for its personalised customization service and premium clothing stock. Apart from the famed personalised customization, the services include- measurements, repairing, cutting-out, resize, sewing, restoration, cuttings, etc, at a reasonably low price and comes with delivery free charges.
 
 # Landing page : 
 
