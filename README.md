@@ -42,7 +42,7 @@ One
 # U CAN CHECK THE VIDEO FOR THIS PROJECT BY CLICKING ON THE LINK BELOW
 <br>
 
-# [Project video](https://youtu.be/oj-5cx7IAtk)
+# [Project video](https://youtu.be/oj-5cx7IAtk) 👈
 
 <br>
 
