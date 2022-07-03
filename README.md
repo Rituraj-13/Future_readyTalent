@@ -7,7 +7,7 @@ https://zealous-flower-00b0bab10.1.azurestaticapps.net
 
 
 ## Azure Services used in this project: 
-Azure Web static apps, Web apps
+Azure Static web apps, Web apps
 
 #  Fashion-Up 
 
