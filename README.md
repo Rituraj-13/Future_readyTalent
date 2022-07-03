@@ -5,6 +5,10 @@ To run this website  click on this link below: <br>
 https://zealous-flower-00b0bab10.1.azurestaticapps.net
 </h1>
 
+
+## Azure Services used in this project: 
+Azure Web static apps, Web apps
+
 #  Fashion-Up 
 
 Fashion-Up is one of the leading and trusted Tailoring service. Here people can customize their clothing according to their needs. Famous for its personalised customization service and premium quality of the clothes. Apart from the famed personalised customization, the services include- measurements, repairing, cutting-out, resize, sewing, restoration, cuttings, etc, at a reasonably low price and comes with delivery free charges.
