@@ -43,11 +43,6 @@ Fashion-Up is one of the leading and trusted Tailoring service. Here people can 
 
 <br>
 
-# YOU CAN CHECK THE VIDEO FOR THIS PROJECT BY CLICKING ON THE LINK BELOW
-<br>
 
-# [Project video](https://youtu.be/oj-5cx7IAtk)  👈
-
-<br>
 
 If you like this repo  then  show some ❤️ by giving ⭐ to this  . 
