@@ -2,7 +2,7 @@
 <br>
 <h1>
 To run this website  click on this link below: <br>
-https://zealous-flower-00b0bab10.1.azurestaticapps.net
+https://icy-mud-0491ffa10.2.azurestaticapps.net
 </h1>
 
 
